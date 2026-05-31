@@ -13,9 +13,3 @@ Um sistema completo de gerenciamento de cadastros desenvolvido em Python, utiliz
 * **Streamlit** (Desenvolvimento da interface web)
 * **Pandas** (Estruturação e tratamento de tabelas de dados)
 * **JSON** (Banco de dados local em formato de arquivo)
-
-## 🔧 Como Executar este Projeto Localmente
-
- 1. **Clonar o repositório:**
-   bash
-   git clone https://github.com/GuiGRgms/sistema-cadastro-usuarios.git
