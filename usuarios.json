@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "nome": "teste",
+        "email": "teste@teste.com",
+        "telefone": "6291234-7890",
+        "idade": 99,
+        "data_cadastro": "30/05/2026 19:12:21"
+    }
+]
