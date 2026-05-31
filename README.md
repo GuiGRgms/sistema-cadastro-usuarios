@@ -17,5 +17,5 @@ Um sistema completo de gerenciamento de cadastros desenvolvido em Python, utiliz
 ## 🔧 Como Executar este Projeto Localmente
 
  1. **Clonar o repositório:**
-   ```bash
+   bash
    git clone https://github.com/GuiGRgms/sistema-cadastro-usuarios.git
