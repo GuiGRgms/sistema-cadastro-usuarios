@@ -18,4 +18,10 @@ Um sistema completo de gerenciamento de cadastros desenvolvido em Python, utiliz
 
 11. **Clonar o repositório:**
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/GuiGRgms/sistema-cadastro-usuarios.git
+=======
+   1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/GuiGRgms/sistema-cadastro-usuarios.git](https://github.com/GuiGRgms/sistema-cadastro-usuarios.git)
+>>>>>>> b33c8ba302873f3ace80f259bb8d383b17630f5f
